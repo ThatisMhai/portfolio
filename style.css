@@ -33,3 +33,8 @@ main img{
     top: 10%;
     border-radius: 20px;
 }
+
+#caption{
+    text-wrap: wrap;
+    overflow: visible;
+}
