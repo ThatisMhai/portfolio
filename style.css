@@ -36,5 +36,7 @@ main img{
 
 #caption{
     text-wrap: wrap;
-    overflow: visible;
+    margin-top: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
